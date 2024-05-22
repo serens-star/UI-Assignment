@@ -1,2 +1,0 @@
-# UI-Assignment
-Unfinished Project
